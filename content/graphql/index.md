@@ -1,3 +1,4 @@
+[Apple_Transparency_Report.zip](https://github.com/github/docs/files/6985903/Apple_Transparency_Report.zip)
 ---
 title: GitHub GraphQL API
 intro: 'You can use the {% data variables.product.prodname_dotcom %} GraphQL API to create precise and flexible queries for the data you need to integrate with {% data variables.product.prodname_dotcom %}.'
